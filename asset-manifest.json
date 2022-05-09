@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/polars2-console/static/css/main.b87635c6.css",
+    "main.js": "/polars2-console/static/js/main.800e258a.js",
+    "static/js/787.4ffd6e92.chunk.js": "/polars2-console/static/js/787.4ffd6e92.chunk.js",
+    "static/media/6993068.gif": "/polars2-console/static/media/6993068.f166be5821154aa083a0.gif",
+    "index.html": "/polars2-console/index.html",
+    "main.b87635c6.css.map": "/polars2-console/static/css/main.b87635c6.css.map",
+    "main.800e258a.js.map": "/polars2-console/static/js/main.800e258a.js.map",
+    "787.4ffd6e92.chunk.js.map": "/polars2-console/static/js/787.4ffd6e92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b87635c6.css",
+    "static/js/main.800e258a.js"
+  ]
+}
